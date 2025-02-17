@@ -1,0 +1,9 @@
+Pillow
+discord.py
+pyautogui
+pyinstaller
+requests
+pywin32
+opencv-python
+psutil
+pyperclip
