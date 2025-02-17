@@ -15,13 +15,13 @@ class GuiaCompresionApp:
         # Variables para manejar el paso actual y las imágenes
         self.paso_actual = 1
         ##self.imagenes = [
-        ##    "C:\\Users\\d1se0\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso1.png",  # Imagen paso 1 (Añadir archivo y crear autoextraíble)
-        ##    "C:\\Users\\d1se0\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso2.png",  # Imagen paso 2 (Configuración avanzada)
-        ##    "C:\\Users\\d1se0\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso3.png",  # Imagen paso 3 (Añadir icono)
-        ##    "C:\\Users\\d1se0\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso4.png",  # Imagen paso 4 (Configuración de actualizaciones)
-        ##   "C:\\Users\\d1se0\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso5.png",  # Imagen paso 5 (Acceso como administrador)
-        ##    "C:\\Users\\d1se0\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso6.png",  # Imagen paso 6 (Descomprimir en carpeta temporal)
-        ##    "C:\\Users\\d1se0\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso7.png"   # Imagen paso 7 (Ocultar todo)
+        ##    "C:\\Users\\TST\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso1.png",  # Imagen paso 1 (Añadir archivo y crear autoextraíble)
+        ##    "C:\\Users\\TST\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso2.png",  # Imagen paso 2 (Configuración avanzada)
+        ##    "C:\\Users\\TST\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso3.png",  # Imagen paso 3 (Añadir icono)
+        ##    "C:\\Users\\TST\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso4.png",  # Imagen paso 4 (Configuración de actualizaciones)
+        ##   "C:\\Users\\TST\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso5.png",  # Imagen paso 5 (Acceso como administrador)
+        ##    "C:\\Users\\TST\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso6.png",  # Imagen paso 6 (Descomprimir en carpeta temporal)
+        ##    "C:\\Users\\TST\\Documents\\safe\\Discord-RAT-Shell\\buildEXE\\images\\paso7.png"   # Imagen paso 7 (Ocultar todo)
         ##--]
 
         self.instrucciones = [
