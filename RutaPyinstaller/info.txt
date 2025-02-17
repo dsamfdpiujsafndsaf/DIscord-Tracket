@@ -1,0 +1,3 @@
+En este script lo unico que hace es verificar la ruta de donde esta alojado
+la herramienta de 'pyinstaller' para modificarlo en el script llamado
+'CompilePYtoEXE.py' si fuera necesario.
